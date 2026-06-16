@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-y-mio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tu cuerpo y mío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-y-mio/) |
+| **Get License** | [Get License For Tu cuerpo y mío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-y-mio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, la noche se enciende si te tengo cerca
+> Tú y yo en la disco, el humo y la luz de neón
+> Dejemos que el ritmo nos quite la ropa y la cuenta
+> Que esta madrugada es pa' nuestra obsesión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
